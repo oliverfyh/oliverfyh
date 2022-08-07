@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+I am currently learning data science and python at General Assembly. It reminds me of those old days when I studied computing science 20 years ago. Becoming a data scienist is my goal, as I feel that it is fun and joyful to solve business problems from the perspectives of Data Science.
 
-- 🌱 I’m currently learning data science and python
-- 👯 I’m looking to collaborate on machine learning, SQL and Java
-- 🤔 I’m looking for help with data science and python
-- 💬 Ask me about everthing
+Working as an operations manager fully in charge of two projects involving around 100 workers, I need to make difficult business decisions in order to deliver the best service to our clients in time, within budget, fully complying with regulations as well as taking care of the workers' well beings. I believe that the work philosophy which I developed in working experience also apply in data science.
+
+
 - 📫 How to reach me: oliver.fyh@gmail.com
+
 - 😂 Fun Fact ... I have lived in 4 countries for more than 2 years each
 
 
