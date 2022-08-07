@@ -6,5 +6,6 @@
 - 🤔 I’m looking for help with data science and python
 - 💬 Ask me about everthing
 - 📫 How to reach me: oliver.fyh@gmail.com
+- 😂 Fun Fact ... I have lived in 4 countries for more than 2 years each
 
 
